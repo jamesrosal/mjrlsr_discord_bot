@@ -1,0 +1,74 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey", "yo", "aye", "ay", "sup"],
+    "bot_response": "sup?",
+    "required_words": []
+  },
+  {
+    "response_type": "what are you doing?",
+    "user_input": ["much", "nm"],
+    "bot_response": " ",
+    "required_words": []
+  },
+  {
+    "response_type": "what are you doing?",
+    "user_input": ["about you", "bout you", "about u", "bout u", "hbu"],
+    "bot_response": "taking a poo",
+    "required_words": []
+  },
+  {
+    "response_type": "complement",
+    "user_input": ["that's", "thats", "that is", "cool", "awesome", "great", "good", "cool"],
+    "bot_response": "that it is..",
+    "required_words": []
+  },
+  {
+    "response_type": "disgust",
+    "user_input": ["thats", "that is", "gross", "ew"],
+    "bot_response": "its not that bad, everybody does it.. So what did you want to talk about?",
+    "required_words": []
+  },
+  {
+    "response_type": "no answer",
+    "user_input": ["nothing", "not much"],
+    "bot_response": "ok",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who", "what", "where", "when", "how", "why"],
+    "bot_response": "You should Google it.",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "good",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["is", "james", "smart"],
+    "bot_response": "yes",
+    "required_words": ["is", "james", "smart"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["is", "jonathan", "smart"],
+    "bot_response": "no",
+    "required_words": ["is", "jonathan", "smart"]
+  },
+  {
+    "response_type": "leaving",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  }
+]
