@@ -14,7 +14,7 @@
   {
     "response_type": "what are you doing?",
     "user_input": ["about you", "bout you", "about u", "bout u", "hbu"],
-    "bot_response": "taking a poo",
+    "bot_response": "nothing",
     "required_words": []
   },
   {
