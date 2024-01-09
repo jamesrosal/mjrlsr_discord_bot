@@ -3,8 +3,7 @@ import random
 
 def random_string():
     random_list = [
-        "tf you talkin bout?",
-        "Are you on drugs?",
+        "What are you on?",
         "What are you talking about?",
         "Rephrase dat.",
         # "Please try writing something more descriptive.",
