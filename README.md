@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <h1 align="center”>:robot: @MAJORLASOR Discord Chat Bot</h1>
+  <h1 align="center">:robot: @MAJORLASOR Discord Chat Bot</h1>
 
   <p align="center">
     <h3>A bot on Discord that responds back.</h3>
