@@ -1,6 +1,5 @@
 import random
 
-
 def random_string():
     random_list = [
         "What are you on?",
