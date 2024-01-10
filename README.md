@@ -50,3 +50,12 @@ A bot on Discord that responds back. Built with Python and Discord's API.
 ![Discord Bot Example](https://github.com/jamesrosal/mjrlsr_discord_bot/blob/main/public/discord-bot-example.png?raw=true)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- BUILT WITH -->
+### Built With
+
+* <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" /> Python
+* <img align="left" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="16" /> Discord
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
